@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 coucoucoucou
 coucou
 coucou 
 "coucou"
+=======
+"Nom : Dugauguez" 
+prénom : téau
+En vrai c'est Th�o
+>>>>>>> dugauguez_corr_bug
