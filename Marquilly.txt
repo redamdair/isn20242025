@@ -1,2 +1,0 @@
-Essai du fichier Nom.txt
-description : blablabla
