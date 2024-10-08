@@ -1,0 +1,2 @@
+Essai du fichier Nom.txt
+description : fichier exercice
